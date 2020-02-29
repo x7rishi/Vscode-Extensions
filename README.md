@@ -28,3 +28,7 @@ Material Icon Theme - Philipp Kief
  vscode-icons
 
 ```
+### Fonts 
+>Consolas, 'Courier New', monospace
+
+### Fonts Size - 16px
