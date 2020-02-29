@@ -1,7 +1,8 @@
 ## My Favorite extension for VsCode
 
 ### Themes 
-~~~ Community Material Theme ** (Better with IPS panel)
+~~~
+Community Material Theme ** (Better with IPS panel)
 material Theme
 Material Themes Icons 
 One Dark Pro
